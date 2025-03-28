@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("1.이클립스 첫 실행");
 		System.out.println("2.hello Eclipse");
 		System.out.println("3.Github연동완료");
-		System.out.println("4.집에서작업");
+		System.out.println("4.집에서 작업");
 	}
 
 }
