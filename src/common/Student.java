@@ -18,6 +18,6 @@ public class Student extends Person{
 		부모에 정의된 toString을 먼저 호출한 후 자식쪽의 멤버를
 		추가한다.
 		 */
-		return super.toString() + "학번:"+stNumber;
+		return super.toString() + ", 학번:"+stNumber;
 	}
 }
